@@ -1,17 +1,12 @@
 <% layout('layouts/boilerplate') %>
 
-    <div class="alert alert-danger d-flex align-items-center" role="alert">
-        <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Danger:">
-            <use xlink:href="#exclamation-triangle-fill" />
-        </svg>
-        <div>
-            Error <%=err.statusCode%>:<%if (process.env.NODE_ENV !== "production"){%> <%=err.message }%>
+<div class="row">
+    <div class="col-6 offset-3">
+        <div class="alert alert-danger" role="alert">
+            <h4 class="alert-heading"><%=err.message%></h4>
+            <% if (process.env.NODE_ENV !== "production") { %>
+            <p><%= err.stack %></p>
+            <% } %>
         </div>
     </div>
-
-    <div class="row">
-        <div class="col-6 offset-3 mb-3">
-            <img src="https://c.tenor.com/WJ2FLjDnIN8AAAAd/confused-dog.gif" class="img-fluid rounded mx-auto d-block"
-                alt="...">
-        </div>
     </div>
