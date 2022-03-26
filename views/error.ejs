@@ -5,7 +5,7 @@
             <use xlink:href="#exclamation-triangle-fill" />
         </svg>
         <div>
-            Error <%=err.statusCode%>: <%=err.message %>
+            Error <%=err.statusCode%>:<%if (process.env.NODE_ENV !== "production"){%> <%=err.message }%>
         </div>
     </div>
 
