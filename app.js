@@ -58,7 +58,7 @@ const store = MongoStore.create({
   mongoUrl: dbUrl,
   touchAfter: 24 * 60 * 60,
   crypto: {
-      secret: 'squirrel'
+      secret
   }
 });
 store.on("error", function (e) { 
@@ -67,7 +67,7 @@ store.on("error", function (e) {
 const sessionConfig = {
   store,
   name: 'session',
-  secret: 'laniado',
+  secret,
   resave: false,
   saveUninitialized: true,
   cookie: {
@@ -168,6 +168,7 @@ app.use((err, req, res, next) => {
   res.status(statusCode).render('error', { err })
 })
 
+const port = process.env.PORT || 3000;
 app.listen(3000, () => {
-  console.log('Serving on port 3000')
+  console.log(`Serving on port ${port}`)
 })
