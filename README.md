@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 <h1>Yelp Camp - MERN Stack project</h1>
@@ -39,23 +40,14 @@ This is my first fullstack project which includes all the MERN stack lessons I h
 
 * [Installation](#gear-installation)
 
-* [Running Tests](#test_tube-running-tests)
-
 * [Run Locally](#running-run-locally)
 
 * [Deployment](#triangular_flag_on_post-deployment)
 
-- [Usage](#eyes-usage)
-
-- [Roadmap](#compass-roadmap)
 
 - [Contributing](#wave-contributing)
 
-* [Code of Conduct](#scroll-code-of-conduct)
 
-- [FAQ](#grey_question-faq)
-
-- [License](#warning-license)
 
 - [Contact](#handshake-contact)
 
@@ -241,26 +233,6 @@ nodemon app.js
 ```
 The project run locally on port 3000
 
-<!-- Usage -->
-
-##  :eyes: Usage
-
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
-```
-
-import Component from 'my-project'
-
-function App() {
-
-return <Component />
-
-}
-
-```
-
-<!-- Roadmap -->
-
 
 
 
@@ -288,5 +260,6 @@ Use this section to mention useful resources and libraries that you have used in
 
 - [Stack overflow](https://stackoverflow.com/)
 - [Colt steel](https://www.udemy.com/user/coltsteele/)
+
 
 
