@@ -74,10 +74,6 @@ https://i.postimg.cc/vm105snv/Screen-Shot-2022-12-14-at-12-24-02.png" alt="scree
 
 
 
-
-https://i.postimg.cc/nhWkFPW9/login.png
-https://i.postimg.cc/vm105snv/Screen-Shot-2022-12-14-at-12-24-02.png
-
 </div>
 
 <!-- TechStack -->
