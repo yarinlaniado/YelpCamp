@@ -64,12 +64,10 @@ This is my first fullstack project which includes all the MERN stack lessons I h
 <div align="center">
 
 <img src="https://i.postimg.cc/52rHQdb1/welcome.jpg" alt="Welcome page" />
-
 <img src="https://i.postimg.cc/pLLGX8X4/camppage.png" alt="camp page" />
 <img src="https://i.postimg.cc/SR4V0YvZ/campwithlocation.png" alt="camp with the location shown" />
-<img src="https://i.postimg.cc/nhWkFPW9/login.png" alt="screenshot" />
-<img src="
-https://i.postimg.cc/vm105snv/Screen-Shot-2022-12-14-at-12-24-02.png" alt="screenshot" />
+<img src="https://i.postimg.cc/nhWkFPW9/login.png" alt="login page" />
+<img src="https://i.postimg.cc/vm105snv/Screen-Shot-2022-12-14-at-12-24-02.png" alt="phone screenshot" />
 <img src="https://i.postimg.cc/7YfwGC6G/mobile-Camp-Page.png" alt="mobile view of the camp page" />
 
 
