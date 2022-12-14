@@ -134,7 +134,7 @@ https://i.postimg.cc/vm105snv/Screen-Shot-2022-12-14-at-12-24-02.png" alt="scree
 
 - Visualize all the camps we have in the site with mapbox
 
--Create a user 
+- Create a user 
 
 <!-- Color Reference -->
 
