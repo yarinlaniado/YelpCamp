@@ -234,7 +234,7 @@ The project run locally on port 3000
 
 ##  :handshake: Contact
 
-Your Name - Yarin Laniado - yarinl464@gmail.com
+Yarin Laniado - yarinl464@gmail.com
 
 Project Link: [https://github.com/yarinlaniado/YelpCamp](https://github.com/yarinlaniado/YelpCamp)
 
