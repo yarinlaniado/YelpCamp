@@ -7,6 +7,10 @@
 <p>
 This is my first fullstack project which includes all the MERN stack lessons I have learnt.
 
+# Disclaimer
+The app first loading is slow, due to the platform I uploaded the site (Render)
+In order to enjoy the site the most, clone the project.
+
 
 
 <h4>
